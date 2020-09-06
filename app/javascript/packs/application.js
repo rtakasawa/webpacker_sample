@@ -15,5 +15,5 @@ require("channels")
 //
 // const images = require.context('../images', true)
 // const imagePath = (name) => images(name, true)
-const $ = require("jquery")
-$(() => $("body").html("hello jquery"))
+// const $ = require("jquery")
+// $(() => $("body").html("hello jquery"))
